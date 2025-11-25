@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.todo;
 
 public class Task {
         private String title;
