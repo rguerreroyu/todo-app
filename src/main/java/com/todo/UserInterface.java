@@ -29,7 +29,7 @@ public class UserInterface {
     private void addTask() {
         System.out.print("Enter title: ");
         String title = scanner.nextLine();
-        3
+
         System.out.print("Enter description: ");
         String description = scanner.nextLine();
         manager.addTask(new Task(title, description));
